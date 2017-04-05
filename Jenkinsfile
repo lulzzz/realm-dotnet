@@ -2,7 +2,7 @@ wrapperConfigurations = [
   Debug: 'dbg',
   Release: ''
 ]
-configuration = 'Release'
+configuration = 'Debug'
 
 xbuildCmd = '/usr/local/bin/xbuild'
 nugetCmd = '/usr/local/bin/nuget'
